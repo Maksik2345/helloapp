@@ -10,3 +10,8 @@ static void GreetBlack()
 {
     Console.WriteLine("hello black");
 }
+
+static void Main()
+{
+    GreetBlack();
+}
